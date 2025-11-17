@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello! 👋 I'm Kevin
 
-<!--
-**kehiwa/kehiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  I'm passionate about developing independent applications across various domains.
 
-Here are some ideas to get you started:
+##  What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in creating independent applications in the following areas:
+- **Web Applications** - Building modern, responsive web solutions
+- **Embedded Systems** - Developing efficient embedded applications
+- **Linux-based Solutions** - Creating robust applications on Linux platforms
+
+## 🛠️ Technology Stack
+
+### Web Development
+- **Framework:** Vue.js
+- **Package Manager:** npm
+- **Development Server:** uvicorn
+
+### Databases
+- SQL
+- PostgreSQL
+
+### Programming Languages
+- **Python** - My go-to language for versatile development
+- **Web Technologies** - HTML, CSS, JavaScript, and related web languages
+- **C++** - For performance-critical applications
+- **VBA** - When the situation calls for it 😉
+
+## 📫 Let's Connect
+
+Feel free to explore my repositories (if there are any) and reach out if you'd like to collaborate on interesting projects!
